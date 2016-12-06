@@ -1,0 +1,24 @@
+<stationdata day="1" month="1" year="2014" quality="†">
+    <maxtemp description="Maximum Temperature" units="°C">-10.0</maxtemp><mintemp description="Minimum Temperature" units="°C">-14.0</mintemp>
+    <meantemp description="Mean Temperature" units="°C">-12.0</meantemp>
+    <heatdegdays description="Heating Degree Days" units="°C">30.0</heatdegdays>
+    <cooldegdays description="Cooling Degree Days" units="°C">0.0</cooldegdays>
+    <totalrain description="Total Rain" units="mm">0.0</totalrain>
+    <totalsnow description="Total Snow" flag="T" units="cm">0.0</totalsnow>
+    <totalprecipitation description="Total Precipitation" flag="T" units="mm">0.0</totalprecipitation>
+    <snowonground description="Snow on Ground" units="cm">15</snowonground>
+    <dirofmaxgust description="Direction of Maximum Gust" units="10s Deg"></dirofmaxgust>
+    <speedofmaxgust description="Speed of Maximum Gust" units="km/h"></speedofmaxgust>
+</stationdata>
+<stationdata day="2" month="1" year="2014" quality="†">
+    <maxtemp description="Maximum Temperature" units="°C">-16.5</maxtemp>
+    <mintemp description="Minimum Temperature" units="°C">-19.5</mintemp>
+    <meantemp description="Mean Temperature" units="°C">-18.0</meantemp>
+    <heatdegdays description="Heating Degree Days" units="°C">36.0</heatdegdays>
+    <cooldegdays description="Cooling Degree Days" units="°C">0.0</cooldegdays>
+    <totalrain description="Total Rain" units="mm">0.0</totalrain><totalsnow description="Total Snow" units="cm">0.6</totalsnow>
+    <totalprecipitation description="Total Precipitation" units="mm">0.4</totalprecipitation>
+    <snowonground description="Snow on Ground" units="cm">14</snowonground>
+    <dirofmaxgust description="Direction of Maximum Gust" units="10s Deg"></dirofmaxgust>
+    <speedofmaxgust description="Speed of Maximum Gust" units="km/h"></speedofmaxgust>
+</stationdata>
