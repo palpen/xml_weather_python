@@ -9,3 +9,6 @@ Data source:
 - Search by Proximityc11
 - http://climate.weather.gc.ca/historical_data/search_historic_data_e.html
 
+## License
+
+Original contributions are available under the [MIT License](LICENSE), within the boundaries in [LICENSE_SCOPE.md](LICENSE_SCOPE.md). Third-party code, data, media, and course material retain their own rights; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
